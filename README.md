@@ -19,6 +19,6 @@ Aplikacja została utowrzona w frameworku PhoneGap. W celu uruchomienia aplikacj
 * **Szymon Pogon** - 181415
 * **Paweł Rachwał** - 181483
 
-Informatyka Stosowana
-Wydział Zarządzania
+Informatyka Stosowana<br>
+Wydział Zarządzania<br>
 Uniwersystet Ekonomiczny w Krakowie
