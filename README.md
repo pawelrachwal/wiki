@@ -16,8 +16,8 @@ Aplikacja została utowrzona w frameworku PhoneGap. W celu uruchomienia aplikacj
 
 ## Autorzy aplikacji
 
-* **Szymon Pogon** - 181415
-* **Paweł Rachwał** - 181483
+* **Szymon Pogon** - numer albumu - 181415
+* **Paweł Rachwał** - numer albumu - 181483
 
 Informatyka Stosowana<br>
 Wydział Zarządzania<br>
