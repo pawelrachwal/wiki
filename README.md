@@ -12,6 +12,9 @@ Aplikacja została utowrzona w frameworku PhoneGap. W celu uruchomienia aplikacj
 
 ## Autorzy aplikacji
 
-* **Billie Thompson** - *Initial work* - [PurpleBooth](https://github.com/PurpleBooth)
+* **Szymon Pogon** - 181415
+* **Paweł Rachwał** - 181483
 
-See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project.
+Informatyka Stosowana
+Wydział Zarządzania
+Uniwersystet Ekonomiczny w Krakowie
