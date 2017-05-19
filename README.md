@@ -16,7 +16,7 @@ Aplikacja została utowrzona w frameworku PhoneGap. W celu uruchomienia aplikacj
 
 ## Wiki
 
-Opis działania aplikacji znajduje się w <a href="https://github.com/spogon/carspenses/wiki">Wiki</a>
+Opis działania aplikacji znajduje się w <a href="https://github.com/spogon/carspenses/wiki">Wiki</a>.
 
 ## Autorzy aplikacji
 
