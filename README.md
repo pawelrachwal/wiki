@@ -1,6 +1,10 @@
 # Carspenses
 
 Carspenses jest aplikacją do zarządzania samochodem i wydatkami z nim związanymi.
+<br>
+<p align="center">
+  <img src="http://e123.linuxpl.eu/carspenses/logo.jpg"/>
+</p>
 
 ## Opis aplikacji
 
