@@ -1,88 +1,17 @@
-# Project Title
+# Carspenses
 
-One Paragraph of project description goes here
+Carspenses jest aplikacją do zarządzania samochodem i wydatkami z nim związanymi.
 
-## Getting Started
+## Opis aplikacji
 
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
+Aplikacja pozwala zarządzać wydatkami związanymi z samochodem oraz gromadzić wszystkie dane na temat auta. Carspenses umożliwia rejestrowanie danych o przeprowadzonych naprawach, trasach i tankowaniach. Aplikacja posiada moduł pozwalający oszacować opłacalność założenia instalacji gazowej w pojeździe. Dodatkowo użytkownik aplikacji może korzystać z przypomnień o opłaceniu ubezpieczenia, zbliżającym się przeglądzie technicznym oraz wymianie oleju. Za pomocą aplikacji możliwe jest wyszukanie znajdujących się w pobliżu stacji paliw, warsztatów i myjni, a następnie za pomocą wbudowanych w urządzenie map uruchomienie nawigacji.
 
-### Prerequisites
+### Instalacja
 
-What things you need to install the software and how to install them
+Aplikacja została utowrzona w frameworku PhoneGap. W celu uruchomienia aplikacji należy wygenerować jej plik instalacyjny APK za pomocą strony <a href="https://build.phonegap.com">https://build.phonegap.com/apps</a> Po przesłaniu pliku na urządzenie z systemem Android będzie możliwe zainstalowanie aplikacji 
 
-```
-Give examples
-```
-
-### Installing
-
-A step by step series of examples that tell you have to get a development env running
-
-Say what the step will be
-
-```
-Give the example
-```
-
-And repeat
-
-```
-until finished
-```
-
-End with an example of getting some data out of the system or using it for a little demo
-
-## Running the tests
-
-Explain how to run the automated tests for this system
-
-### Break down into end to end tests
-
-Explain what these tests test and why
-
-```
-Give an example
-```
-
-### And coding style tests
-
-Explain what these tests test and why
-
-```
-Give an example
-```
-
-## Deployment
-
-Add additional notes about how to deploy this on a live system
-
-## Built With
-
-* [Dropwizard](http://www.dropwizard.io/1.0.2/docs/) - The web framework used
-* [Maven](https://maven.apache.org/) - Dependency Management
-* [ROME](https://rometools.github.io/rome/) - Used to generate RSS Feeds
-
-## Contributing
-
-Please read [CONTRIBUTING.md](https://gist.github.com/PurpleBooth/b24679402957c63ec426) for details on our code of conduct, and the process for submitting pull requests to us.
-
-## Versioning
-
-We use [SemVer](http://semver.org/) for versioning. For the versions available, see the [tags on this repository](https://github.com/your/project/tags). 
-
-## Authors
+## Autorzy aplikacji
 
 * **Billie Thompson** - *Initial work* - [PurpleBooth](https://github.com/PurpleBooth)
 
 See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project.
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
-
-## Acknowledgments
-
-* Hat tip to anyone who's code was used
-* Inspiration
-* etc
-
